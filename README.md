@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8edaae82-92a4-4cd5-859e-9a7d11ec45b6)# **DATA ANALYST**
+ **DATA ANALYST**
+ 
 ### Educaton
 Economics, Bachelor's Degree
 
