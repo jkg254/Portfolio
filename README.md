@@ -1,4 +1,3 @@
-avatar: "/assets/images/profile.jpg"
 
  **DATA ANALYST**
  
